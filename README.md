@@ -1,6 +1,6 @@
 # Fixurl
 
-VB6 working copy of `Fixurl` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: Project1.
+Tiny VB6 URL decoder (`Project1` / Fixurl) that turns percent-encoded text in `txtURL1` into a readable URL in `txtURL2` by replacing `%3a`, `%2f`, `%2e`, `%3f`, `%3d`, and `%26` as you type. Open `Project1.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
